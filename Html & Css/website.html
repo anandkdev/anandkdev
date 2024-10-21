@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Complete Website design using HTML and CSS</title>
+  <link rel="stylesheet" href="website.css">
+</head>
+<body>
+  <section id="header">
+    <div class="container">
+      <img src="images/logo.png" alt="LOGO" class="logo">
+      <div class="content">
+        <h1>
+          Empower Design:<br> Designing for the People
+        </h1>
+        <span class="square1"></span>
+        <p>Bridging the gap between developers and UED (User Experience Design) experts when clashing over design preferences requires clear communication and collaboration.</p>
+        <button class="action">Read more</button>
+        <div class="square">
+          <span class="line1"></span><br>
+          <span class="line2"></span><br>
+          <span class="line3"></span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <nav id="sidebar" class="closed">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About us</a></li>
+      <li><a href="#">Poducts</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+  <img src="images/menu.png" alt="Menu" id="menuIcon">
+
+  <!-- About -->
+   <section class="about">
+    <div class="left-column">
+      <img src="images/about.png" alt="" class="aboutImage">
+    </div>
+    <div class="right-column">
+      <div class="textContent">
+        <h1>About Us</h1><br>
+        <p>Overall, the code you provided is a good starting point for building a website with a sidebar menu and a header section. By addressing the potential areas for improvement, you can create a more robust and customized website.</p><br>
+        <h2>“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”</h2>
+        <h3>― Albert Einstein</h3>
+      </div>
+    </div>
+    
+   </section>
+
+   <!-- Features -->
+    <section class="features">
+      <h1>Features</h1>
+      <div class="collection">
+        <div class="feature1">
+          <img src="images/pic-1.png" alt="" class="featureImage">
+          <h4>Something</h4>
+          <p>few potential areas for improvement or customization based on your specific design goals</p>
+        </div>
+        <div class="feature1">
+          <img src="images/pic-2.png" alt="" class="featureImage">
+          <h4>Something</h4>
+          <p>few potential areas for improvement or customization based on your specific design goals</p>
+        </div>
+        <div class="feature1">
+          <img src="images/pic-3.png" alt="" class="featureImage">
+          <h4>Something</h4>
+          <p>few potential areas for improvement or customization based on your specific design goals</p>
+        </div>
+      </div>
+      <div class="button2">
+        <button class="action">Start Free Trail</button>
+      </div>
+    </section>
+
+  <script>
+    const menuIcon = document.getElementById("menuIcon");
+    const sidebar = document.getElementById("sidebar");
+
+    menuIcon.addEventListener('click',   
+ () => {
+            if (sidebar.style.right === '-250px') {
+                sidebar.style.right = '0px';
+            } else {
+                sidebar.style.right = '-250px';
+            }
+        });
+
+    // menuIcon.onclick = function() {
+    //   sideBar.classList.toggle("open"); // Toggle class on click
+    // };
+  </script>
+
+
+</body>
+</html>
