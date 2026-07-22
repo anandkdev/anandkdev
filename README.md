@@ -1,362 +1,405 @@
 <div align="center">
-
-# ⚓ CAPTAIN'S DECK
-
-![Banner](assets/banner.webp)
-
-</div>
-
----
-
-<div align="center">
-
-# 🏴‍☠️ Ahoy, I'm **Anand Kumar**
-
-### 🗺️ Full Stack Navigator | React & Node.js Adventurer
-
-```
-╔════════════════════════════════════════════════════════════╗
-║  "The sea calls to those who build empires of code"       ║
-║              ⚔️ Code • Design • Architecture ⚔️            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<a href="https://linkedin.com/in/anandkdev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ananda.kumar@alferix.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio"/>
-</a>
+  
+<!-- ANIMATED HERO BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Anand;Full+Stack+Developer;React+Developer;Next.js+Developer;NestJS+Developer;TypeScript+Developer;UI%2FUX+Designer;SQL+Developer" alt="Typing animation" />
 
 </div>
 
 ---
 
-## 📜 CAPTAIN'S LOG
+<table>
+<tr>
+<td width="25%" valign="top">
 
+<!-- LEFT SIDEBAR -->
 <div align="center">
 
-| 🎯 | Mission |
-|:---:|:---|
-| **Current Course** | Building enterprise QHSSE applications with modern React & Node.js architectures |
-| **Voyage Status** | Sailing through System Design & Advanced SQL waters 🌊 |
-| **Crew Size** | Solo Developer crafting premium web experiences |
-| **Ship's Philosophy** | Clean code, optimal performance, user-centric design |
+### 👨‍💻 **ANAND KUMAR**
 
-</div>
-
-### 🧭 What I Do
-
-I'm a **Full Stack Developer** passionate about crafting scalable, user-centered applications. With expertise in modern frontend frameworks and robust backend systems, I navigate the vast ocean of web development, building solutions that combine aesthetic elegance with technical excellence.
-
-### 🗺️ Current Learning Voyage
-
-<div align="center">
-
-```
-System Design → Advanced SQL → Docker → Kubernetes
-    ↓              ↓            ↓           ↓
-  Planning    Optimization   Containerization  Orchestration
-```
-
-Exploring cloud architectures, CI/CD pipelines, and enterprise-grade software design patterns.
-
-</div>
-
-### 🎪 Fun Fact
-
-> When I'm not coding, you'll find me exploring UI/UX design trends, perfecting responsive layouts, or planning my next technical adventure. I believe great code is like a great story—engaging, well-structured, and worth experiencing.
+#### Full Stack Developer
 
 ---
 
-## ⚔️ TECH ARSENAL
-
-<div align="center">
-
-### 🎨 **FRONTEND WEAPONRY**
-
-| Skill | Proficiency | Badge |
-|:---:|:---:|:---:|
-| React | ⭐⭐⭐⭐⭐ | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| Next.js | ⭐⭐⭐⭐⭐ | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
-| TypeScript | ⭐⭐⭐⭐⭐ | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| JavaScript | ⭐⭐⭐⭐⭐ | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| Tailwind CSS | ⭐⭐⭐⭐⭐ | ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| HTML5 & CSS3 | ⭐⭐⭐⭐⭐ | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) |
-
-### ⚙️ **BACKEND ENGINEERING**
-
-| Skill | Proficiency | Badge |
-|:---:|:---:|:---:|
-| Node.js | ⭐⭐⭐⭐⭐ | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| NestJS | ⭐⭐⭐⭐⭐ | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
-| REST APIs | ⭐⭐⭐⭐⭐ | ![API](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white) |
-
-### 🗄️ **DATA VAULTS**
-
-| Skill | Proficiency | Badge |
-|:---:|:---:|:---:|
-| SQL Server | ⭐⭐⭐⭐⭐ | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| PostgreSQL | ⭐⭐⭐⭐⭐ | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-
-### 🛠️ **TOOLS & INSTRUMENTS**
-
-| Skill | Badge |
-|:---:|:---:|
-| Git & GitHub | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| VS Code | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| Postman | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
-### 🚀 **VOYAGE DESTINATIONS (Learning)**
-
-<div align="center">
-
-![System Design](https://img.shields.io/badge/System%20Design-1E90FF?style=for-the-badge&logo=drawio&logoColor=white)
-![Advanced SQL](https://img.shields.io/badge/Advanced%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6B6B?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloud Architecture](https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
-</div>
+<img src="https://media.giphy.com/media/26uf1EjvCHXcvb7lm/giphy.gif" width="120" height="120" alt="Profile" style="border-radius: 50%; border: 3px solid #00D4FF; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
 
 ---
 
-## 🚢 FEATURED FLEET
-
-<div align="center">
-
-### Premium Projects from My Voyage
-
-</div>
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|:---:|:---|:---|
-| **⚡ QHSSE Platform** | Enterprise-grade Quality, Health, Safety & Environment management system | React, Next.js, NestJS, TypeScript, PostgreSQL |
-| **📋 Dynamic Form Engine** | Intelligent form builder with dynamic field validation and conditional rendering | React, TypeScript, Tailwind CSS |
-| **📄 PDF Report Generator** | High-performance PDF generation system for enterprise reports | Node.js, NestJS, PDF Library |
-| **🗚 SQL Learning Repository** | Comprehensive SQL tutorials and advanced query patterns | SQL Server, PostgreSQL |
-| **🎨 React Component Library** | Reusable, accessible, well-documented component system | React, TypeScript, Storybook |
-| **🤖 AI Developer Tools** | Intelligent development utilities leveraging AI-assisted coding | Node.js, APIs, Automation |
-
-</div>
+**Enterprise Application Developer** with expertise in modern web technologies, scalable architecture, and performance optimization.
 
 ---
 
-## 📊 VOYAGE STATISTICS
+### 📫 **CONTACT**
 
-<div align="center">
-
-### 🏆 GitHub Arsenal
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandkdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc&icon_color=1f6feb)](https://github.com/anandkdev)
-
-### 💾 Treasure Maps (Top Languages)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandkdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)](https://github.com/anandkdev)
-
-### 🔥 Streak Status
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandkdev&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/anandkdev)
-
-### 👥 Visitor Counter
-
-![Visitors](https://komarev.com/ghpvc/?username=anandkdev&color=FFD700&style=flat-square)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ananda.kumar@alferix.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&logo=web&logoColor=black)](https://coming-soon.com)
 
 ---
 
-## 🗺️ CURRENT VOYAGE - LEARNING ROADMAP
+### 📍 **LOCATION**
 
-<div align="center">
+🌍 India
 
-### Q3-Q4 2026 Adventure Routes
+### 🏢 **CURRENT COMPANY**
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                   🌊 UNCHARTED WATERS 🌊                   │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  📐 SYSTEM DESIGN                                           │
-│  ├─ Database Scaling & Optimization                        │
-│  ├─ Microservices Architecture                             │
-│  ├─ Load Balancing & Caching Strategies                    │
-│  └─ High Availability Systems                              │
-│                                                             │
-│  🔍 ADVANCED SQL                                           │
-│  ├─ Complex Query Optimization                             │
-│  ├─ Performance Tuning                                     │
-│  ├─ Index Strategies                                       │
-│  └─ Database Design Patterns                               │
-│                                                             │
-│  🐳 CONTAINERIZATION & ORCHESTRATION                       │
-│  ├─ Docker Deep Dive                                       │
-│  ├─ Kubernetes Fundamentals                                │
-│  ├─ CI/CD Pipeline Implementation                          │
-│  └─ Infrastructure as Code                                 │
-│                                                             │
-│  ☁️ CLOUD ARCHITECTURE                                     │
-│  ├─ AWS Services & Best Practices                          │
-│  ├─ Cloud Security & Compliance                            │
-│  ├─ Serverless Computing                                   │
-│  └─ Cost Optimization                                      │
-│                                                             │
-│  🏛️ SOFTWARE ARCHITECTURE                                  │
-│  ├─ Design Patterns & Principles                           │
-│  ├─ Clean Architecture                                     │
-│  ├─ SOLID Principles Deep Dive                             │
-│  └─ Enterprise Application Design                          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+Alferix Technologies
 
-</div>
+### 🎯 **AVAILABILITY**
+
+![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-00D4FF?style=flat-square&logo=rocket&logoColor=black)
 
 ---
 
-## 🏅 ACHIEVEMENTS & MILESTONES
+### 📄 **RESUME**
 
-<div align="center">
-
-### Professional Conquests
-
-| Achievement | Status | Target |
-|:---|:---:|:---:|
-| 🎓 **Master System Design** | 🔄 In Progress | Q4 2026 |
-| 📊 **Advanced SQL Proficiency** | 🔄 In Progress | Q3 2026 |
-| 🐳 **Docker & Kubernetes Certified** | 🎯 Planned | Q4 2026 |
-| ☁️ **Cloud Architecture Expert** | 🎯 Planned | Q1 2027 |
-| 🏢 **Enterprise Solutions Portfolio** | ⭐ Active | Ongoing |
-| 🤝 **Open Source Contributions** | ⭐ Active | Ongoing |
-| 📚 **Technical Blog & Tutorials** | 🔄 In Progress | Ongoing |
-
-### Core Competencies
-
-<div align="center">
-
-![Frontend Architecture](https://img.shields.io/badge/Frontend%20Architecture-4CAF50?style=for-the-badge)
-![Backend Design](https://img.shields.io/badge/Backend%20Design-2196F3?style=for-the-badge)
-![UI%2FUUX Design](https://img.shields.io/badge/UI%2FUUX%20Design-FF9800?style=for-the-badge)
-![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-9C27B0?style=for-the-badge)
-![Enterprise Applications](https://img.shields.io/badge/Enterprise%20Applications-F44336?style=for-the-badge)
-![AI-Assisted Development](https://img.shields.io/badge/AI%20Development-FFB300?style=for-the-badge)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-FF6B6B?style=flat-square&logo=download&logoColor=white)](https://coming-soon.com)
 
 </div>
 
-</div>
+</td>
+
+<td width="75%" valign="top">
+
+<!-- RIGHT CONTENT AREA -->
+
+## 🎯 **ABOUT ME**
+
+I'm a **Full Stack Developer** passionate about building enterprise-grade applications with **React**, **Next.js**, **NestJS**, and **SQL Server**. I specialize in creating scalable, performant solutions with intuitive user interfaces.
+
+With expertise in:
+
+- 🚀 Enterprise application development
+- ⚛️ React ecosystem & Next.js frameworks
+- 🔧 Backend architecture with NestJS
+- 💾 Database design & optimization
+- 🎨 Modern UI/UX implementation
+- ⚡ Performance optimization
+- 🤖 AI-assisted development workflows
 
 ---
 
-## 🌊 DAILY TREASURE HUNT
+## 💼 **WHAT I DO**
 
-<details>
-<summary><strong>📝 What I'm Currently Building</strong></summary>
+<table>
+<tr>
+<td width="33%">
 
-```
-✓ Enhancing QHSSE Platform with advanced analytics
-✓ Exploring modern state management patterns
-✓ Diving deep into system design concepts
-✓ Optimizing database performance
-✓ Building scalable component architectures
-```
-
-</details>
-
-<details>
-<summary><strong>🎯 My Development Philosophy</strong></summary>
+### 🎨 **FRONTEND**
 
 ```
-1️⃣  Clean Code First
-    └─ Readable, maintainable, and tested code over quick fixes
-
-2️⃣  User-Centric Design
-    └─ Every feature serves the end-user experience
-
-3️⃣  Performance Matters
-    └─ Fast, responsive applications that delight users
-
-4️⃣  Continuous Learning
-    └─ Stay updated with emerging technologies & patterns
-
-5️⃣  Collaboration & Communication
-    └─ Clear code speaks louder than brilliant comments
+⚛️ React
+📱 Next.js
+📘 TypeScript
+🎯 Tailwind CSS
+📐 Responsive Design
+⚡ Performance
 ```
 
-</details>
+</td>
 
-<details>
-<summary><strong>🚀 Quick Navigation to My Treasures</strong></summary>
+<td width="33%">
 
-- 📂 **Featured Projects** → Explore my [fleet of projects](https://github.com/anandkdev?tab=repositories)
-- 📈 **GitHub Profile** → View my [contribution journey](https://github.com/anandkdev)
-- 💼 **Professional Experience** → Connect on [LinkedIn](https://linkedin.com/in/anandkdev)
-- 📧 **Get in Touch** → Reach me at [ananda.kumar@alferix.com](mailto:ananda.kumar@alferix.com)
+### 🔧 **BACKEND**
 
-</details>
+```
+🏗️ NestJS
+🟢 Node.js
+🔌 REST APIs
+🔐 Authentication
+🛡️ Authorization
+💾 Database Design
+```
+
+</td>
+
+<td width="33%">
+
+### 🗄️ **DATABASE**
+
+```
+🏛️ SQL Server
+🐘 PostgreSQL
+🍃 MongoDB
+⚙️ Optimization
+📦 Stored Procedures
+🔍 Query Performance
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⛵ HARBOR - GET IN TOUCH
+## 🚀 **FEATURED PROJECTS**
+
+### 1️⃣ **Enterprise QHSSE Management System**
+
+_Comprehensive quality, health, safety, and environment platform_
+
+**Features:**
+
+- Dynamic form generation and management
+- PDF export with custom styling
+- Advanced reporting system
+- Role-based access control (RBAC)
+- Audit trail & compliance tracking
+- Investigation management module
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 2️⃣ **Dynamic Form Builder**
+
+_No-code form generation platform with drag-and-drop interface_
+
+**Features:**
+
+- Visual form designer
+- Field validation rules
+- Conditional logic
+- Data persistence
+- Export to multiple formats
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+### 3️⃣ **PDF Report Generator**
+
+_Enterprise-grade PDF generation with templates and styling_
+
+**Features:**
+
+- Dynamic template engine
+- Chart integration
+- Multi-language support
+- Performance optimized
+- Batch processing
+
+**Tech Stack:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+### 4️⃣ **SQL Learning Repository**
+
+_Comprehensive SQL tutorials and best practices guide_
+
+**Features:**
+
+- Query optimization techniques
+- Window functions mastery
+- Complex joins explained
+- Performance tuning
+- Real-world scenarios
+
+**Tech Stack:**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 🛠️ **TECH STACK**
+
+### 🎨 **Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🔧 **Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=rest&logoColor=white)
+
+### 💾 **Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🛠️ **Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+
+### 🧪 **Testing**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+
+---
+
+## 📊 **GITHUB ANALYTICS**
 
 <div align="center">
 
-### Let's Chart a Course Together! 🗺️
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandkdev&show_icons=true&theme=nord&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=E0E0E0&border_color=00D4FF)
 
-I'm always open to exciting projects, collaborations, and discussions about web development, system design, and technology innovation.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandkdev&theme=nord&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=00D4FF&sideNums=E0E0E0&currStreakLabel=00D4FF&sideLabels=A0A0A0&dates=A0A0A0)
 
-<a href="https://linkedin.com/in/anandkdev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ananda.kumar@alferix.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio"/>
-</a>
-<a href="https://github.com/anandkdev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandkdev&layout=compact&theme=nord&bg_color=0D1117&title_color=00D4FF&text_color=E0E0E0&border_color=00D4FF)
 
 </div>
 
 ---
 
-<div align="center">
-
-![Wave Footer](assets/wave.jpg)
-
-### 🏴‍☠️ CAPTAIN'S WISDOM 🏴‍☠️
-
-> **"In the vast ocean of code, I build lighthouses—not just to guide ships, but to create unforgettable journeys."**
-
----
-
-### 📊 Contribution Graph
-
-> [!TIP]
-> Check out my contribution patterns below to see when I'm most active sailing the code seas!
+## 🎯 **CURRENT FOCUS**
 
 ```
-🌙 Midnight commits | 📅 Weekly voyages | 🚀 Sprint bursts
+📚 Currently Learning & Exploring
+
+▸ System Design & Architecture
+▸ Advanced SQL Optimization
+▸ Docker & Containerization
+▸ CI/CD Pipelines
+▸ Kubernetes Orchestration
+▸ Microservices Architecture
+▸ Cloud Platforms (AWS, Azure)
+▸ Advanced Testing Strategies
+▸ AI/ML Integration Workflows
 ```
 
 ---
 
-### ⚓ Thank You for Visiting My Harbor!
+## 🏆 **CERTIFICATIONS**
 
-*Thanks for anchoring at my GitHub profile. Feel free to explore my repositories, and don't hesitate to set sail on a collaboration adventure!*
+| Certification                                                                                                             | Issuer      | Status       |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ |
+| ![SQL](https://img.shields.io/badge/SQL%20Fundamentals-CC2927?style=flat-square&logo=database&logoColor=white)            | Microsoft   | ✅ Completed |
+| ![React](https://img.shields.io/badge/React%20Mastery-61DAFB?style=flat-square&logo=react&logoColor=black)                | Udemy       | ✅ Completed |
+| ![Next.js](https://img.shields.io/badge/Next.js%20Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white)       | Vercel      | ✅ Completed |
+| ![System Design](https://img.shields.io/badge/System%20Design-00D4FF?style=flat-square&logo=architecture&logoColor=black) | In Progress | 🔄 Active    |
+| ![Azure](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)  | Microsoft   | 📅 Planned   |
+| ![AWS](https://img.shields.io/badge/AWS%20Solutions-FF9900?style=flat-square&logo=amazonaws&logoColor=white)              | Amazon      | 📅 Planned   |
 
-**Last Updated:** 2026 | **Status:** Active & Learning | **Next Voyage:** System Design Mastery ⛵
+---
 
-<sub>Crafted with ❤️ and a pirate's passion for clean code</sub>
+## 🌟 **BEYOND CODE**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 **UI/UX Design**
+
+Creating intuitive and beautiful user experiences with attention to detail and usability principles.
+
+</td>
+<td width="50%">
+
+### 🚀 **Open Source**
+
+Contributing to the community through open-source projects and shared knowledge.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 **Problem Solving**
+
+Breaking down complex challenges into elegant, scalable solutions.
+
+</td>
+<td width="50%">
+
+### 📖 **Learning**
+
+Continuous learning and staying updated with latest technologies and best practices.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📝 **Documentation**
+
+Writing clear, comprehensive documentation for code and systems.
+
+</td>
+<td width="50%">
+
+### 🤝 **Knowledge Sharing**
+
+Mentoring others and sharing expertise through blogs and discussions.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📬 **LET'S CONNECT**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandkdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandkdev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananda.kumar@alferix.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=web&logoColor=black)](https://coming-soon.com)
+
+---
+
+### 💬 Open to Collaborations & Opportunities
+
+Feel free to reach out for projects, collaborations, or just to connect!
+
+</div>
+
+---
+
+## 🌊 **CLOSING NOTE**
+
+```
+"Building scalable software while continuously learning, sharing knowledge,
+ and creating impactful digital experiences."
+```
+
+<div align="center">
+
+### Made with ❤️ by Anand Kumar
+
+**Last Updated:** 2024
+
+![Profile Views](https://komarev.com/ghpvc/?username=anandkdev&style=flat-square&color=00D4FF)
+![Followers](https://img.shields.io/github/followers/anandkdev?style=flat-square&color=00D4FF&logo=github&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<!-- WAVE ANIMATION -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.svg" width="100%" />
 
 </div>
 
@@ -364,9 +407,6 @@ I'm always open to exciting projects, collaborations, and discussions about web 
 
 <div align="center">
 
-### 🎨 Design & Branding
-*This profile represents a fusion of technical excellence and creative design, inspired by the adventurous spirit of exploration.*
-
-**Profile Version:** 1.0 | **Theme:** Anime Pirate | **Built with:** ❤️ Passion & Code
+### 🔝 **Back to top**
 
 </div>
